@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Getiverse</string>
+    <string name="title_activity_main">Getiverse</string>
+    <string name="package_name">com.getiverse</string>
+    <string name="custom_url_scheme">com.getiverse</string>
+    <string name="server_client_id">303829088733-mb3rp5letp59svgirrgraomieb2063ms.apps.googleusercontent.com</string>
+</resources>

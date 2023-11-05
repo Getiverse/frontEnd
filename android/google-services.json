@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "303829088733",
+    "project_id": "getiverse-backend",
+    "storage_bucket": "getiverse-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303829088733:android:df9edc25264f26386dde34",
+        "android_client_info": {
+          "package_name": "com.getiverse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303829088733-gfc8a95ph6c2q9b0c7al971ov70f36m1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.getiverse",
+            "certificate_hash": "2abc7d18dda356dab9ebc461e490c3ac0509f797"
+          }
+        },
+        {
+          "client_id": "303829088733-p41m50dkarsvqok68fhjiqgdbt6jfr2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.getiverse",
+            "certificate_hash": "e83c57e9c116c4113b5611c51b759e1ab0db4187"
+          }
+        },
+        {
+          "client_id": "303829088733-mb3rp5letp59svgirrgraomieb2063ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKTa3P4H4SUmptjGSYb8Qa8t_ti6rktmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303829088733-mb3rp5letp59svgirrgraomieb2063ms.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "303829088733-217vrqdtnluhdqvvbi6f2f6kcoveq8s4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.getiverse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
